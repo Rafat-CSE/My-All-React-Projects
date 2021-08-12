@@ -1,0 +1,17 @@
+.item {
+  padding: 10px;
+  margin: 10px;
+
+  background-color: burlywood;
+}
+.name {
+  border: 3px solid black;
+  border-radius: 6px;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+.name p {
+  font-size: 20px;
+  font-weight: bold;
+}
